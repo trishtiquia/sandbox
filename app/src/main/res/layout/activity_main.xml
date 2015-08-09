@@ -19,5 +19,7 @@
         android:layout_height="wrap_content" android:id="@+id/textTrish" android:layout_below="@+id/textPatrick"/>
     <TextView android:text="@string/franz_string" android:layout_width="wrap_content"
         android:layout_height="wrap_content" android:id="@+id/textFranz"   android:layout_below="@+id/textTrish" />
+    <TextView android:text="@string/m3x_string" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:id="@+id/textM3x" android:layout_below="@+id/textFranz" />
 
 </RelativeLayout>
